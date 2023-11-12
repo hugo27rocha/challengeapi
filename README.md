@@ -1,5 +1,6 @@
 # Flask API - Technical Challenge Python
 
+Minimal REST API in Python, using Flask. The API has a single GET endpoint that randomly suggest an app name from a hard-coded list of possible app names.
 
 ## Installation
 
